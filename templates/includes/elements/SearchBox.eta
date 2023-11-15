@@ -1,0 +1,13 @@
+<form class="SearchBox" action="/search">
+  <div class="SearchBoxInput">
+    <input
+      type="text"
+      name="q"
+    >
+  </div>
+  <div class="SearchBoxButtonContainer">
+    <button class="SearchBoxButton">
+      <%~ include('/includes/svg/SearchBoxButton.eta') %>
+    </button>
+  </div>
+</form>

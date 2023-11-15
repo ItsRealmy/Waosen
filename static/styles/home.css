@@ -1,0 +1,84 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #b2bdc4;
+}
+
+#content {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 35px 1fr;
+}
+
+.MenuContainer {
+  background-image: linear-gradient(0deg, rgba(158, 172, 179, 0) 0%, #879398 100%);
+}
+
+.MenuBar {
+  height: 24px;
+  border-bottom: 1px solid #bac3c8;
+  font-size: 12px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.Menu {
+  display: flex;
+  align-items: center;
+}
+
+.MenuItem {
+  
+}
+
+.MenuPadding {
+  padding: 0 12px;
+  font-size: 12px;
+}
+
+.BoxCenterContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Box {
+  height: 580px;
+  width: 956px;
+  border: 1px solid #d0d9dd;
+  background-color: #9eacb3;
+  box-shadow: 0 0 4px 0 #97a5aa;
+}
+
+.BoxSearch {
+  margin-top: 96px;
+  display: flex;
+  align-items: center;
+  padding: 0 32px;
+}
+
+.BoxLogoContainer {
+  display: flex;
+  margin-right: 32px;
+}
+
+.BoxLogo {
+  height: 36px;
+}
+
+.BoxSearchBoxContainer {
+  margin-top: 6px;
+}
+
+.BoxFooter {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666e72;
+}

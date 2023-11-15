@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Waosen</title>
+
+  <link rel="stylesheet" href="/static/styles/global.css">
+  <link rel="stylesheet" href="/static/styles/home.css">
+</head>
+
+<body>
+  <div id="content">
+    <div class="MenuContainer">
+      <div class="MenuBar">
+        <div class="Menu">
+          <a class="MenuItem" href="/">Home</a>
+          <span class="MenuPadding">|</span>
+          <a class="MenuItem" href="/">About</a>
+        </div>
+
+        <div class="Menu">
+          <a class="MenuItem" href="/">Nosalgia '09</a>
+          <span class="MenuPadding">|</span>
+          <a class="MenuItem" href="/">Preferences</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="BoxCenterContainer">
+      <div class="BoxContainer">
+        <div class="Box">
+          <div class="BoxSearch">
+            <div class="BoxLogoContainer">
+              <div class="BoxLogo">
+                <%~ include('/includes/svg/Logo.eta') %>
+              </div>
+            </div>
+
+            <div class="BoxSearchBoxContainer">
+              <%~ include('/includes/elements/SearchBox.eta') %>
+            </div>
+          </div>
+        </div>
+        <div class="BoxFooter">
+          <div class="Menu">
+            <p>© 2023 Realmy</p>
+            <span class="MenuPadding">|</span>
+            <a class="MenuItem" href="/">Source Code</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

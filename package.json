@@ -1,0 +1,13 @@
+{
+  "name": "waosen",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Realmy",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "eta": "^3.1.1",
+    "express": "^4.18.2"
+  }
+}
