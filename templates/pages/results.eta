@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= it.data.query %> - Waosen</title>
+
+  <link rel="stylesheet" href="/static/styles/global.css">
+  <link rel="stylesheet" href="/static/styles/results.css">
+</head>
+
+<body>
+
+</body>
+
+</html>
