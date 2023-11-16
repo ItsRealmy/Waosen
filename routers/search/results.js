@@ -10,6 +10,7 @@ router.get('/', async (req, res) => {
     response = await getTextResults(req.query.q, req.query.p);
   } catch (err) {
     // TODO: Handle errors
+    res.send('');
   }
   
   const html = await eta.renderAsync('/pages/results.eta', { data: response });

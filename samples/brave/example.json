@@ -1,0 +1,747 @@
+{
+  "query": {
+    "original": "microsoft",
+    "show_strict_warning": false,
+    "is_navigational": true,
+    "local_decision": "drop",
+    "local_locations_idx": 0,
+    "is_news_breaking": false,
+    "spellcheck_off": true,
+    "country": "us",
+    "bad_results": false,
+    "should_fallback": false,
+    "postal_code": "",
+    "city": "",
+    "header_country": "",
+    "more_results_available": true,
+    "state": ""
+  },
+  "mixed": {
+    "type": "mixed",
+    "main": [
+      {
+        "type": "web",
+        "index": 0,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 1,
+        "all": false
+      },
+      {
+        "type": "news",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 2,
+        "all": false
+      },
+      {
+        "type": "videos",
+        "all": true
+      },
+      {
+        "type": "web",
+        "index": 3,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 4,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 5,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 6,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 7,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 8,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 9,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 10,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 11,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 12,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 13,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 14,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 15,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 16,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 17,
+        "all": false
+      },
+      {
+        "type": "web",
+        "index": 18,
+        "all": false
+      }
+    ],
+    "top": [],
+    "side": []
+  },
+  "news": {
+    "type": "news",
+    "results": [
+      {
+        "title": "Introducing SharePoint Premium – the future of AI powered content management and experiences - Microsoft Community Hub",
+        "url": "https://techcommunity.microsoft.com/t5/sharepoint-premium-blog/introducing-sharepoint-premium-the-future-of-ai-powered-content/ba-p/3981076",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Today we’re introducing SharePoint Premium as we evolve Microsoft Syntex into a new family of advanced content management and experiences for information in SharePoint and Microsoft 365. our advanced content management and experiences platform and our next evolution for Syntex.",
+        "page_age": "2023-11-15T17:30:04",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "techcommunity.microsoft.com",
+          "hostname": "techcommunity.microsoft.com",
+          "favicon": "https://imgs.search.brave.com/aIymkmYg0_gtEy3nW6tBz16FPtJWeM4J5-g3Z7FSQMg/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjQ4ZjY3MTc3/NjRlYzhlOWFlYjFl/YmM0YzQ5NDFhNjVl/NTIyNWJiMzE1YzBi/MWFmNWZjNWIzOWE0/YzE4ZWU1Mi90ZWNo/Y29tbXVuaXR5Lm1p/Y3Jvc29mdC5jb20v",
+          "path": "› t5  › sharepoint-premium-blog  › introducing-sharepoint-premium-the-future-of-ai-powered-content  › ba-p  › 3981076"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Ee50TqwQSCEX8c5w2nFabNCNzN0sus9yiddqVqQt-Zg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90ZWNo/Y29tbXVuaXR5Lm1p/Y3Jvc29mdC5jb20v/dDUvaW1hZ2Uvc2Vy/dmVycGFnZS9pbWFn/ZS1pZC81MjUyNDVp/Q0MwNzFDNjgyNDI4/Rjg5MS9pbWFnZS1z/aXplL29yaWdpbmFs/P3Y9djImcHg9LTE"
+        },
+        "age": "16 hours ago"
+      },
+      {
+        "title": "Microsoft announces custom AI chip that could compete with Nvidia",
+        "url": "https://www.cnbc.com/2023/11/15/microsoft-reveals-maia-ai-processor-and-cobalt-arm-based-chip.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Microsoft will give its Azure cloud clients more choices for standard computing workloads and artificial intelligence, following market leader Amazon.",
+        "page_age": "2023-11-15T17:25:04",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cnbc.com",
+          "hostname": "www.cnbc.com",
+          "favicon": "https://imgs.search.brave.com/KUrlWAd6ODBBSGj5d32vnSDOYDoLCxwRTHNzWoWbgjE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
+          "path": "› 2023  › 11  › 15  › microsoft-reveals-maia-ai-processor-and-cobalt-arm-based-chip.html"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/039Qj6x6BJNfdqtHnL3vcEuDmT7Sojf8RgAOGCJhsOA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDczMzM5MTIt/MTcwMDAxMTMwNjcy/MS1SYWNrX2FuZF9z/aWRla2ljay5qcGc_/dj0xNzAwMDExMzgx/JmFtcDt3PTE5MjAm/YW1wO2g9MTA4MA"
+        },
+        "age": "16 hours ago"
+      },
+      {
+        "title": "What Can Copilot’s Earliest Users Teach Us About Generative AI at Work?",
+        "url": "https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "EEight months ago, we introduced Copilot for Microsoft 365 to reduce digital debt and increase productivity so people can focus on the work that is uniquely human. What everyone wants to know now is: will generative AI really transform work, and how?ight months ago, we introduced Copilot for ...",
+        "page_age": "2023-11-15T17:30:04",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "microsoft.com",
+          "hostname": "www.microsoft.com",
+          "favicon": "https://imgs.search.brave.com/vH0TO8GxRS_LpZUpRQCB4vuhi0r90r18FApkfMNBLpc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTM5NmUzZTBm/Y2I4YTEzZDI1Mzll/NmM2MmU4NzlhMGVh/NjdjMmQwZjQ0OTMx/MGRhYTVkNjk1MDNi/M2VkYThkZC93d3cu/bWljcm9zb2Z0LmNv/bS8",
+          "path": "› en-us  › worklab  › work-trend-index  › copilots-earliest-users-teach-us-about-generative-ai-at-work"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BtRBLvLv4l-1gJfp4sV2Cn5EvXDo9chJgwCz2JUy6yY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMtYzRha2ZyZjVi/NGQzZjRiNy56MDEu/YXp1cmVmZC5uZXQv/YXNzZXRzLzIwMjMv/MTEvTVNGVF9XVEkt/Tm92LVB1bHNlX2Fy/dF9oZXJvXzE5MjB4/MTA4MC5qcGc"
+        },
+        "age": "16 hours ago"
+      },
+      {
+        "title": "Empower Power BI users with Microsoft Fabric and Copilot | Microsoft Power BI Blog | Microsoft Power BI",
+        "url": "https://powerbi.microsoft.com/en-us/blog/empower-power-bi-users-with-microsoft-fabric-and-copilot/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "We are thrilled to announce the general availability of Microsoft Fabric and the public preview of Copilot in Microsoft Fabric, including the experience for Power BI. With the launch of these next-generation analytics tools, you can empower your data teams to more easily scale to meet the demand ...",
+        "page_age": "2023-11-15T17:45:04",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "powerbi.microsoft.com",
+          "hostname": "powerbi.microsoft.com",
+          "favicon": "https://imgs.search.brave.com/4u1GXoV7H4TBifK7imicKI4UWRa0euSRoCtLyPF66-s/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjhlY2YzZjQz/MmY2ZWY3NTU5ZGRh/Y2U1NWIwZmM3ZTU4/YjA5ODJmM2Q4ZmMx/ODI1YzNlZWRhOWJk/Y2JjMDNiYi9wb3dl/cmJpLm1pY3Jvc29m/dC5jb20v",
+          "path": "› en-us  › blog  › empower-power-bi-users-with-microsoft-fabric-and-copilot"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/YFjhhjwTH4krA4i1m50L22T5ku-j5UIhOUn9vlr2YmA/rs:fit:200:200:1/g:ce/Ly9wb3dlcmJpYmxv/Z3NjZG4uYXp1cmVl/ZGdlLm5ldC93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8xMS9y/ZW5kZXItaGVyby0x/OTIweDEwODAucG5n"
+        },
+        "age": "15 hours ago"
+      },
+      {
+        "title": "Microsoft is fine avoiding China as U.S. considers national security implications, CEO Satya Nadella says",
+        "url": "https://www.cnbc.com/2023/11/15/microsoft-ceo-nadella-says-company-isnt-focused-on-china-domestically.html",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Microsoft CEO Satya Nadella told CNBC's Jon Fortt that the company has notable Chinese customers that operate outside the mainland",
+        "page_age": "2023-11-15T22:05:02",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "cnbc.com",
+          "hostname": "www.cnbc.com",
+          "favicon": "https://imgs.search.brave.com/KUrlWAd6ODBBSGj5d32vnSDOYDoLCxwRTHNzWoWbgjE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
+          "path": "› 2023  › 11  › 15  › microsoft-ceo-nadella-says-company-isnt-focused-on-china-domestically.html"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/6hQRfpnK2IINKhNUfXuC97RLI7TUJfcK7ufza3dETR4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDczMzQ0NDUt/MTcwMDA3NTE1NjI4/NC1TYXR5YS1OYWRl/bGxhLTIuanBnP3Y9/MTcwMDA3NTIzMiZh/bXA7dz0xOTIwJmFt/cDtoPTEwODA"
+        },
+        "age": "11 hours ago"
+      },
+      {
+        "title": "Microsoft renames Bing Chat to Copilot as it competes with ChatGPT | TechCrunch",
+        "url": "https://techcrunch.com/2023/11/15/bing-chat-is-now-copilot/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Microsoft has renamed Bing Chat, the AI-powered chatbot experience it launched on Bing earlier this year, to simply Copilot.",
+        "page_age": "2023-11-16T00:31:34",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "techcrunch.com",
+          "hostname": "techcrunch.com",
+          "favicon": "https://imgs.search.brave.com/N6VSEVahheQOb7lqfb47dhUOB4XD-6sfQOP94sCe3Oo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGI5Njk0Yzlk/YWM3ZWMwZjg1MTM1/NmIyMWEyNzBjZDZj/ZDQyNmFlNGU0NDRi/MDgyYjQwOGU0Y2Qy/ZWMwNWQ2ZC90ZWNo/Y3J1bmNoLmNvbS8",
+          "path": "› 2023  › 11  › 15  › bing-chat-is-now-copilot"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/J-YoJmriM1mAiEVSWk7L2xIxgMaDh4dtHOnvGID6olE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90ZWNo/Y3J1bmNoLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8x/MS9taWNyb3NvZnQt/Y29waWxvdC1iaW5n/LmpwZz9yZXNpemU9/MTIwMCw2OTA"
+        },
+        "age": "9 hours ago"
+      },
+      {
+        "title": "Microsoft Teams launches creepy AI webcam trick that cleans up your dirty room | Mashable",
+        "url": "https://mashable.com/article/microsoft-teams-ai-webcam-trick",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Microsoft Teams is rolling out a new AI feature that cleans up your dirty room.",
+        "page_age": "2023-11-15T19:35:03",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "mashable.com",
+          "hostname": "mashable.com",
+          "favicon": "https://imgs.search.brave.com/ANwGOZ7oJDusNVb84PA87NEt_H9XdRb2XRt07GY97VQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzliOWI4ZDAz/ZDMzZjU3YzY0YTQ5/MGJkYTBlM2MzOGEw/ZDM5MjQ4ZDQyMWY1/ZjNhMjJlZTAzMmI0/ZDYzMzYwNi9tYXNo/YWJsZS5jb20v",
+          "path": "› article  › microsoft-teams-ai-webcam-trick"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/XInYRlyN1jmDcPUSUmGhMhATysNgS5I0cFhCdB7c4TY/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9oZWxp/b3MtaS5tYXNoYWJs/ZS5jb20vaW1hZ2Vy/eS9hcnRpY2xlcy8w/MHZBakswcEtQZ1ZJ/WGQzZGNyVHlUdy9o/ZXJvLWltYWdlLmZp/bGwuc2l6ZV8xMjAw/eDY3NS52MTcwMDA3/MzU4Ny5qcGc"
+        },
+        "age": "14 hours ago"
+      },
+      {
+        "title": "Bing Chat is now “Microsoft Copilot” in potentially confusing rebranding move | Ars Technica",
+        "url": "https://arstechnica.com/information-technology/2023/11/bing-chat-is-now-microsoft-copilot-in-potentially-confusing-rebranding-move/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Microsoft: \"Soon there will be a Copilot for everyone and for everything you do.\"",
+        "page_age": "2023-11-15T21:25:04",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "arstechnica.com",
+          "hostname": "arstechnica.com",
+          "favicon": "https://imgs.search.brave.com/csffyeLeiLPZamAAt22rzaM219H_Pf-bV-AwEPfDQwo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGJlOTQ4ZDZm/Zjg3MWQwY2NmYjI0/NzRmM2U0MTAzODQx/ZGU3YTFmMDljOGNj/ZmZkNTdlNDRhMjZm/ZGM4NDk3Ni9hcnN0/ZWNobmljYS5jb20v",
+          "path": "› information-technology  › 2023  › 11  › bing-chat-is-now-microsoft-copilot-in-potentially-confusing-rebranding-move"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/ZFXiH7n034v2C162Yn-ozg2OxOzEWtI0lJyy6FqQHF8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/YXJzdGVjaG5pY2Eu/bmV0L3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzExL2NvcGls/b3RfbG9nbzMtNzYw/eDM4MC5qcGc"
+        },
+        "age": "12 hours ago"
+      },
+      {
+        "title": "Microsoft Stock: Software Giant Debuts New AI Chip | Investor's Business Daily",
+        "url": "https://www.investors.com/news/technology/microsoft-stock-software-giant-debuts-new-ai-chip/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Microsoft debuted a new AI chip to run its Azure cloud infrastructure and lessen its reliance on AI chip leader Nvidia. Microsoft stock rose.",
+        "page_age": "2023-11-15T22:30:01",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "investors.com",
+          "hostname": "www.investors.com",
+          "favicon": "https://imgs.search.brave.com/lXT7-b2Pf8wuCvviMiPZWcrFHdaxHNkeFuxXHEPPFO8/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTc1YWE5MTNl/ZDA3NWZhYThiOWY0/MDhjYmUxMDYxNzY2/NTdlOTUxMjBiMWM0/N2ZiOTI0ODRjNGQ3/NDBkODEyNy93d3cu/aW52ZXN0b3JzLmNv/bS8",
+          "path": "› news  › technology  › microsoft-stock-software-giant-debuts-new-ai-chip"
+        },
+        "breaking": false,
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/oEl6xySU3JOn2PKGidsEeSOaYsWmBCqnBTDWyVbuAMs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/aW52ZXN0b3JzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8xMS9TdG9jay1t/aWNyb3NvZnQtc2ln/bi0wNC1jb21wYW55/LmpwZw"
+        },
+        "age": "11 hours ago"
+      },
+      {
+        "title": "Microsoft debuts its homegrown Maia chip to speed AI",
+        "url": "https://www.axios.com/2023/11/16/microsoft-ai-chips-cloud",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Smart, efficient news worthy of your time, attention, and trust. Covering local news, politics, health, climate, tech, media, business, sports, world, science and more.",
+        "page_age": "2023-11-16T02:50:02",
+        "family_friendly": true,
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "axios.com",
+          "hostname": "www.axios.com",
+          "favicon": "https://imgs.search.brave.com/2Vcs1AZ6nPYUjM83KO_3TZ6gTLflVOb8FATqxHiD-lY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRhMTdhMDcy/YWUwZGExMjA2ZGVi/NTVmYTQ3YmNhN2E1/NDdiODg2ZDBiYzNk/Y2RkYzFkNWQ4MmI4/OWY4MDIxMi93d3cu/YXhpb3MuY29tLw",
+          "path": "› 2023  › 11  › 16  › microsoft-ai-chips-cloud"
+        },
+        "breaking": false,
+        "age": "6 hours ago"
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "type": "search",
+  "videos": {
+    "type": "videos",
+    "results": [
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=jwGQPWAihjQ",
+        "title": "Meet the new Microsoft Planner - YouTube",
+        "description": "The new Planner app in Microsoft Teams, coming in early 2024, allows you to see all your work across Microsoft 365 in a single location. Keeping intelligence...",
+        "age": "17 hours ago",
+        "page_age": "2023-11-15T16:00:27",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/mrV46reJISFED0Y2fOcpTLAkJPZKbtXapLJ1WeH1r6Y/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9q/d0dRUFdBaWhqUS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=WVn57PXoFPE",
+        "title": "Introducing Microsoft Copilot Studio | Your Copilot, Your Way - ...",
+        "description": "Harness the power of next-generation AI to create and customize Copilot using natural language or a graphical interface and enable your organization to respo...",
+        "age": "17 hours ago",
+        "page_age": "2023-11-15T16:00:19",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/yWIAPvamgtFzHmUtLtZm5YzYxzwo1FfRA-h8CW0UrHA/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9X/Vm41N1BYb0ZQRS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=zrM36hfzkVE",
+        "title": "Microsoft Fabric: Satya Nadella at Microsoft Ignite 2023 - YouTube",
+        "description": "At Microsoft Ignite 2023, Satya Nadella announced Microsoft Fabric, the data platform for the era of AI.Subscribe to Microsoft on YouTube here: https://aka.m...",
+        "age": "16 hours ago",
+        "page_age": "2023-11-15T17:00:41",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/FGPEobmEKRYl8EBLMngz547dcIX7gTbGeVW14TBGv7Y/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS96/ck0zNmhmemtWRS9t/YXhyZXNkZWZhdWx0/LmpwZz9zcXA9LW9h/eW13RW1DSUFLRU5B/RjhxdUtxUU1hOEFF/Qi1BSC1DWUFDMEFX/S0Fnd0lBQkFCR0Zn/Z1pTaGlNQTg9JmFt/cDtycz1BT240Q0xD/NDRKYVlJWk81M3FY/TU81eGVmOVRyal9i/U0xB"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=sgW_ww1Xxe8",
+        "title": "Microsoft Ignite: Day 1 Keynote - YouTube",
+        "description": "Join Microsoft executives as they showcase cutting-edge innovations and demonstrate how Microsoft is creating opportunities in this new era of AI.",
+        "age": "2 weeks ago",
+        "page_age": "2023-11-03T21:32:34",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/nM9C65XnxMw66WbhDMNigyecbd2npois9Hhz7wfKlV8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9z/Z1dfd3cxWHhlOC9t/YXhyZXNkZWZhdWx0/X2xpdmUuanBn"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=ghNgzh13ac4",
+        "title": "Introducing Microsoft SharePoint Premium - YouTube",
+        "description": "Introducing Microsoft SharePoint Premium: Your AI-powered content management and experiences platform.To learn more about SharePoint Premium, visit our produ...",
+        "age": "17 hours ago",
+        "page_age": "2023-11-15T16:00:27",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/C-kmq7IiSLv_0x-vJHLsi3LOp39AZLFdCtr598Z_W8g/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9n/aE5nemgxM2FjNC9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      },
+      {
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=RP8g62Mes9I",
+        "title": "Microsoft's Chief Questions Officer Trevor Noah on how AI can help ...",
+        "description": "Extreme heat, deadlier than floods, hurricanes, and wildfires combined, is an increasing global hazard. As the global climate gets hotter, temperatures insid...",
+        "age": "2 days ago",
+        "page_age": "2023-11-14T17:07:33",
+        "video": {},
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "youtube.com",
+          "hostname": "www.youtube.com",
+          "favicon": "https://imgs.search.brave.com/Ux4Hee4evZhvjuTKwtapBycOGjGDci2Gvn2pbSzvbC0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "path": "› watch"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/Tuz4QiZ38xfVnJWpEnrjYkso5qE5Jv39tIOKY3ciXB4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9S/UDhnNjJNZXM5SS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        }
+      }
+    ],
+    "mutated_by_goggles": false
+  },
+  "web": {
+    "type": "search",
+    "results": [
+      {
+        "title": "Microsoft – Cloud, Computers, Apps & Gaming",
+        "url": "https://www.microsoft.com/en-us/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Explore <strong>Microsoft</strong> products and services for your home or business. Shop Surface, <strong>Microsoft</strong> 365, Xbox, Windows, Azure, and more. Find downloads and get support.",
+        "page_age": "2023-07-11T17:35:04",
+        "profile": {
+          "name": "Microsoft",
+          "url": "https://www.microsoft.com/en-us/",
+          "long_name": "microsoft.com",
+          "img": "https://imgs.search.brave.com/vH0TO8GxRS_LpZUpRQCB4vuhi0r90r18FApkfMNBLpc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTM5NmUzZTBm/Y2I4YTEzZDI1Mzll/NmM2MmU4NzlhMGVh/NjdjMmQwZjQ0OTMx/MGRhYTVkNjk1MDNi/M2VkYThkZC93d3cu/bWljcm9zb2Z0LmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "microsoft.com",
+          "hostname": "www.microsoft.com",
+          "favicon": "https://imgs.search.brave.com/vH0TO8GxRS_LpZUpRQCB4vuhi0r90r18FApkfMNBLpc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTM5NmUzZTBm/Y2I4YTEzZDI1Mzll/NmM2MmU4NzlhMGVh/NjdjMmQwZjQ0OTMx/MGRhYTVkNjk1MDNi/M2VkYThkZC93d3cu/bWljcm9zb2Z0LmNv/bS8",
+          "path": "› en-us"
+        },
+        "age": "July 11, 2023",
+        "cluster_type": "generic",
+        "cluster": [
+          {
+            "title": "Free downloads & security",
+            "url": "https://www.microsoft.com/en-us/download",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "The official <strong>Microsoft</strong> Download Center. Featuring the latest software updates and drivers for Windows, Office, Xbox and more. Operating systems include Windows, Mac, Linux, iOS, and Android.",
+            "family_friendly": true
+          },
+          {
+            "title": "Windows",
+            "url": "https://www.microsoft.com/en-us/windows/",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "Explore the versatility of <strong>Microsoft</strong>’s Windows 11 operating system. Find out how our latest Windows OS gives you more ways to work, play, and create.",
+            "family_friendly": true
+          },
+          {
+            "title": "Deals",
+            "url": "https://www.microsoft.com/en-us/store/b/sale?icid=gm_nav_L0_salepage",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "Shop the latest <strong>Microsoft</strong> Store sales and deals at a great price! Get more of what you want for less with deals on laptops, computers, PCs, Gaming, software, and more.",
+            "family_friendly": true
+          },
+          {
+            "title": "Microsoft Outlook Personal Email and Calendar",
+            "url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
+            "is_source_local": false,
+            "is_source_both": false,
+            "description": "Download free <strong>Microsoft</strong> Outlook email and calendar, plus Office Online apps like Word, Excel, and PowerPoint. Sign in to access your Outlook email account.",
+            "family_friendly": true
+          }
+        ]
+      },
+      {
+        "title": "Login | Microsoft 365",
+        "url": "https://www.office.com",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Collaborate for free with online versions of <strong>Microsoft</strong> Word, PowerPoint, Excel, and OneNote. Save documents, workbooks, and presentations online, in OneDrive. Share them with others and work together at the same time.",
+        "page_age": "2023-09-19T08:00:03",
+        "profile": {
+          "name": "Office",
+          "url": "https://www.office.com",
+          "long_name": "office.com",
+          "img": "https://imgs.search.brave.com/5tafclOTBdWk0WUi1p7iwcQveYrHBNKIxOJSCU0WQKI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmNlY2ZiY2E4/YTEyNGJiZWQ5MjU0/MDk0YjIwOGQ2MGEx/NzhmNGYzN2E4YTU1/Nzk4YjcxYWJiMjlj/MzlhYWE4OS93d3cu/b2ZmaWNlLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "office.com",
+          "hostname": "www.office.com",
+          "favicon": "https://imgs.search.brave.com/5tafclOTBdWk0WUi1p7iwcQveYrHBNKIxOJSCU0WQKI/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmNlY2ZiY2E4/YTEyNGJiZWQ5MjU0/MDk0YjIwOGQ2MGEx/NzhmNGYzN2E4YTU1/Nzk4YjcxYWJiMjlj/MzlhYWE4OS93d3cu/b2ZmaWNlLmNvbS8",
+          "path": ""
+        },
+        "age": "September 19, 2023"
+      },
+      {
+        "title": "Microsoft (@Microsoft) · X",
+        "url": "https://twitter.com/Microsoft",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "The latest tweets from <strong>Microsoft</strong> (@<strong>Microsoft</strong>)",
+        "page_age": "2023-04-25T19:50:02",
+        "profile": {
+          "name": "Twitter",
+          "url": "https://twitter.com/Microsoft",
+          "long_name": "twitter.com",
+          "img": "https://imgs.search.brave.com/Zq483bGX0GnSgym-1P7iyOyEDX3PkDZSNT8m56F862A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "twitter.com",
+          "hostname": "twitter.com",
+          "favicon": "https://imgs.search.brave.com/Zq483bGX0GnSgym-1P7iyOyEDX3PkDZSNT8m56F862A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8",
+          "path": "› Microsoft"
+        },
+        "age": "April 25, 2023"
+      },
+      {
+        "title": "Microsoft | Verified",
+        "url": "https://www.facebook.com/Microsoft/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "See posts, photos and more on Facebook",
+        "profile": {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/Microsoft/",
+          "long_name": "facebook.com",
+          "img": "https://imgs.search.brave.com/dayBEAKYlZqlTVEWI-S_UZ67vOFXcvlKHmgNBEsYPjw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "facebook.com",
+          "hostname": "www.facebook.com",
+          "favicon": "https://imgs.search.brave.com/dayBEAKYlZqlTVEWI-S_UZ67vOFXcvlKHmgNBEsYPjw/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+          "path": "› Microsoft"
+        }
+      },
+      {
+        "title": "Microsoft - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Microsoft",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "<strong>Microsoft</strong> Corporation is an American multinational technology corporation headquartered in Redmond, Washington. <strong>Microsoft</strong>&#x27;s best-known software products are the Windows line of operating systems, the <strong>Microsoft</strong> 365 suite of productivity applications, and the Edge web browser.",
+        "page_age": "2023-11-15T15:49:35",
+        "profile": {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Microsoft",
+          "long_name": "en.wikipedia.org",
+          "img": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "en.wikipedia.org",
+          "hostname": "en.wikipedia.org",
+          "favicon": "https://imgs.search.brave.com/0kxnVOiqv-faZvOJc7zpym4Zin1CTs1f1svfNZSzmfU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "path": "› wiki  › Microsoft"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/aZF4YVB8HKW4vPax7Ueub0KEnbTpjkEXADwjZHOzUJM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzMwL0J1aWxkaW5n/OTJtaWNyb3NvZnQu/anBn",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Building92microsoft.jpg",
+          "logo": false
+        },
+        "age": "17 hours ago"
+      },
+      {
+        "title": "Microsoft account",
+        "url": "https://signup.live.com/?lic=1",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Try another verification method · That verification method isn&#x27;t working right now. Please try another method · Learn more · You already have an account · Terms of Use Privacy &amp; Cookies · i6209",
+        "profile": {
+          "name": "Live",
+          "url": "https://signup.live.com/?lic=1",
+          "long_name": "signup.live.com",
+          "img": "https://imgs.search.brave.com/xqDIcESG1p1u_nv8IqszVP_yRK3RYPSNYkYHRYE8l_A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTYxYzk1OTM0/MzFmZTM4OGNmMjMy/YmE1M2IzNGNmYmQ3/ZWZmYzI2YzVhMjU2/MDc2YjRiMDdlOGQz/YzJkOGViZS9zaWdu/dXAubGl2ZS5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "signup.live.com",
+          "hostname": "signup.live.com",
+          "favicon": "https://imgs.search.brave.com/xqDIcESG1p1u_nv8IqszVP_yRK3RYPSNYkYHRYE8l_A/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTYxYzk1OTM0/MzFmZTM4OGNmMjMy/YmE1M2IzNGNmYmQ3/ZWZmYzI2YzVhMjU2/MDc2YjRiMDdlOGQz/YzJkOGViZS9zaWdu/dXAubGl2ZS5jb20v",
+          "path": ""
+        }
+      },
+      {
+        "title": "Xbox Official Site: Consoles, Games, and Community | Xbox",
+        "url": "https://www.xbox.com:443/en-US/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Experience the new generation of games and entertainment with Xbox. Explore consoles, new and old Xbox games and accessories to start or add to your collection.",
+        "page_age": "2023-07-17T00:00:00",
+        "profile": {
+          "name": "Xbox",
+          "url": "https://www.xbox.com:443/en-US/",
+          "long_name": "xbox.com",
+          "img": "https://imgs.search.brave.com/C0ne-DHPnSS4Mj2_ZgyssmsukbpSUa6Jwwc_JZB_6pM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjdjYzI5NjA1/MDVjNjc1OGM0MTU5/NzY2ZmFjMmIyNGU4/OTBlZjExNjEyMTU5/MDM0NGQ2NzhlMjVk/Y2RhODU0NC93d3cu/eGJveC5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "xbox.com",
+          "hostname": "www.xbox.com",
+          "favicon": "https://imgs.search.brave.com/C0ne-DHPnSS4Mj2_ZgyssmsukbpSUa6Jwwc_JZB_6pM/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjdjYzI5NjA1/MDVjNjc1OGM0MTU5/NzY2ZmFjMmIyNGU4/OTBlZjExNjEyMTU5/MDM0NGQ2NzhlMjVk/Y2RhODU0NC93d3cu/eGJveC5jb20v",
+          "path": "› en-US"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/diRZ4eh_gr5Lu691PLnYnR9Nbp8aNtc-EszDZxXRY9Q/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMueGJveHNlcnZp/Y2VzLmNvbS9hc3Nl/dHMvNWMvNTUvNWM1/NTQ3MTUtZmFjNC00/YzA5LTgwMDYtZDhl/NjJkMzU1MTU3Lmpw/Zz9uPVhib3hfU2hh/cmluZ19YYm94LTIw/MTktV2hpdGUtb24t/R3JlZW5fMjAweDIw/MC5qcGc",
+          "original": "https://assets.xboxservices.com/assets/5c/55/5c554715-fac4-4c09-8006-d8e62d355157.jpg?n=Xbox_Sharing_Xbox-2019-White-on-Green_200x200.jpg",
+          "logo": false
+        },
+        "age": "July 17, 2023"
+      },
+      {
+        "title": "Microsoft Store - Bing - Shopping",
+        "url": "https://www.bing.com/shop?q=Microsoft+Store&FORM=SHOPRT&qpvt=microsoft",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Rewards · Shop &gt; Stores &gt; <strong>Microsoft</strong> Store · <strong>Microsoft</strong> Store · STOREFRONT · Popular departments · Productivity Suites · Laptops &amp; Notebooks · Tablets",
+        "profile": {
+          "name": "Bing",
+          "url": "https://www.bing.com/shop?q=Microsoft+Store&FORM=SHOPRT&qpvt=microsoft",
+          "long_name": "bing.com",
+          "img": "https://imgs.search.brave.com/ykiRxRLkDhObElckWf2qI5AmW42Gsefr1wRZnPdyzw0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzM3Y2QzYzMy/N2VhM2RkZDU0YmJl/OGY2ZjMxYzYwYmFm/Mzk3OGIyNDM1NTc3/N2RhZjllOTJmYWU4/ZTc0OTY3ZS93d3cu/YmluZy5jb20v"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "bing.com",
+          "hostname": "www.bing.com",
+          "favicon": "https://imgs.search.brave.com/ykiRxRLkDhObElckWf2qI5AmW42Gsefr1wRZnPdyzw0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzM3Y2QzYzMy/N2VhM2RkZDU0YmJl/OGY2ZjMxYzYwYmFm/Mzk3OGIyNDM1NTc3/N2RhZjllOTJmYWU4/ZTc0OTY3ZS93d3cu/YmluZy5jb20v",
+          "path": "› shop"
+        }
+      },
+      {
+        "title": "Microsoft Corporation (MSFT) Stock Price, News, Quote & History ...",
+        "url": "https://finance.yahoo.com/quote/MSFT/",
+        "is_source_local": false,
+        "is_source_both": false,
+        "description": "Find the latest <strong>Microsoft</strong> Corporation (MSFT) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+        "page_age": "2023-09-23T09:50:04",
+        "profile": {
+          "name": "Yahoo! Finance",
+          "url": "https://finance.yahoo.com/quote/MSFT/",
+          "long_name": "finance.yahoo.com",
+          "img": "https://imgs.search.brave.com/hRAFhmYXxP9OpzJ55FclsbPhI1oD49fk4MzigrsdGPo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8"
+        },
+        "language": "en",
+        "family_friendly": true,
+        "type": "search_result",
+        "subtype": "generic",
+        "meta_url": {
+          "scheme": "https",
+          "netloc": "finance.yahoo.com",
+          "hostname": "finance.yahoo.com",
+          "favicon": "https://imgs.search.brave.com/hRAFhmYXxP9OpzJ55FclsbPhI1oD49fk4MzigrsdGPo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+          "path": "› quote  › MSFT"
+        },
+        "thumbnail": {
+          "src": "https://imgs.search.brave.com/BMJUaRPeItosrx0u7zOcMwLK9MPi5SigM1uFJTx9Z8A/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zLnlp/bWcuY29tL2N2L2Fw/aXYyL3NvY2lhbC9p/bWFnZXMveWFob29f/ZGVmYXVsdF9sb2dv/LnBuZw",
+          "original": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+          "logo": true
+        },
+        "age": "September 23, 2023"
+      }
+    ],
+    "family_friendly": true
+  }
+}
