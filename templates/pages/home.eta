@@ -49,7 +49,7 @@
           <div class="Menu">
             <p>© <%= new Date().getFullYear() %> Realmy</p>
             <span class="MenuPadding">|</span>
-            <a class="MenuItem" href="/">Source Code</a>
+            <a class="MenuItem" href="https://github.com/ItsRealmy/Waosen">Source Code</a>
           </div>
         </div>
       </div>
