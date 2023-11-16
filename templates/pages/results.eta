@@ -78,6 +78,25 @@
           </div>
         <% } %>
       </div>
+
+      <div class="Pagination">
+        <div class="PaginationPages">
+          <% for (let i = 0; i < 5; i++) { %>
+            <div class="PaginationPage <%= i === it.data.pagination ? 'Active' : '' %>">
+              <% if (i === it.data.pagination) { %>
+                <span><%= i + 1 %></span>
+              <% } else { %>
+                <a href="/search?q=<%= encodeURIComponent(it.data.query) %>&p=<%= encodeURIComponent(i) %>"><%= i + 1 %></a>
+              <% } %>
+            </div>
+          <% } %>
+          <a class="PaginationNext" href="/search?q=<%= encodeURIComponent(it.data.query) %>&p=<%= encodeURIComponent(it.data.pagination + 1) %>">Next</a>
+        </div>
+
+        <div class="PaginationSearchBox">
+          <%~ include('/includes/elements/SearchBox.eta', { data: { query: it.data.query } }) %>
+        </div>
+      </div>
     </div>
   </main>
 </body>

@@ -118,3 +118,42 @@ main {
   font-size: 14px;
   color: green;
 }
+
+.Pagination {
+  margin: 40px 0;
+}
+
+.PaginationPages {
+  display: flex;
+  color: blue;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.PaginationPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 24px;
+  width: 28px;
+  margin-right: 4px;
+}
+
+.PaginationPage:hover {
+  background-color: #ededed;
+}
+
+.PaginationPage.Active {
+  background-color: #ededed;
+  color: #000;
+}
+
+.PaginationNext {
+  margin-left: 8px;
+}
+
+.PaginationSearchBox {
+  margin-left: -8px;
+}
