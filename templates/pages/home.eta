@@ -45,7 +45,7 @@
         </div>
         <div class="BoxFooter">
           <div class="Menu">
-            <p>© 2023 Realmy</p>
+            <p>© <%= new Date().getFullYear() %> Realmy</p>
             <span class="MenuPadding">|</span>
             <a class="MenuItem" href="/">Source Code</a>
           </div>

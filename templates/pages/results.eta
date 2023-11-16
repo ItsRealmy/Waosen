@@ -11,7 +11,32 @@
 </head>
 
 <body>
+  <header>
+    <div class="HeaderImageContainer">
+      <div class="HeaderImage" style="background-image: url(/static/images/city.jpg);"></div> <% /* TODO: Change image on every request */ %>
+      <svg height="0" xmlns="http://www.w3.org/2000/svg">
+        <filter id="feather">
+            <feGaussianBlur stdDeviation="40"  result="blur"/>
+            <feComponentTransfer result="alpha-adjust">
+                <feFuncA type="gamma" amplitude="1.1" exponent="8" offset="-0.1"/>
+            </feComponentTransfer>
+            <feComposite operator="in" in="SourceGraphic" in2="alpha-adjust"/>
+        </filter>
+    </svg>
+    </div>
+    <div class="HeaderMenu"></div>
+    <div class="HeaderMain">
+      <div class="HeaderMainLeft">
+        <div class="HeaderLogo">
+          <%~ include('/includes/svg/Logo.eta') %>
+        </div>
 
+        <div class="HeaderSearchBox">
+          <%~ include('/includes/elements/SearchBox.eta', { data: { query: it.data?.query || '' } }) %>
+        </div>
+      </div>
+    </div>
+  </header>
 </body>
 
 </html>
