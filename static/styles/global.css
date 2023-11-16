@@ -53,10 +53,11 @@ button {
   width: 400px;
   background-color: #FFF;
   border: 1px solid #acbabd;
-  display: grid;
-  grid-template-columns: 1fr 30px;
+  display: flex;
 }
-
+.SearchBoxInput {
+    width: 90%;
+}
 .SearchBoxInput input {
   height: 100%;
   width: 100%;
@@ -68,6 +69,8 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 0 0 0 auto;
+  margin-right: 3px;
 }
 
 .SearchBoxButton {

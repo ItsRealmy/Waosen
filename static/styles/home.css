@@ -8,12 +8,16 @@ body {
 
 #content {
   height: 100%;
-  display: grid;
-  grid-template-rows: 35px 1fr;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .MenuContainer {
   background-image: linear-gradient(0deg, rgba(158, 172, 179, 0) 0%, #879398 100%);
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 
 .MenuBar {
