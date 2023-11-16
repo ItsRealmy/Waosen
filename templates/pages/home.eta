@@ -14,6 +14,7 @@
   <div id="content">
     <div class="MenuContainer">
       <div class="MenuBar">
+        <% /* TODO: Make this menu work */ %>
         <div class="Menu">
           <a class="MenuItem" href="/">Home</a>
           <span class="MenuPadding">|</span>
@@ -23,6 +24,7 @@
         <div class="Menu">
           <a class="MenuItem" href="/">Nosalgia '09</a>
           <span class="MenuPadding">|</span>
+          <% /* TODO: Preferences */ %>
           <a class="MenuItem" href="/">Preferences</a>
         </div>
       </div>

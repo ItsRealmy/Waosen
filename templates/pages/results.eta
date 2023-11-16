@@ -22,14 +22,30 @@
             </feComponentTransfer>
             <feComposite operator="in" in="SourceGraphic" in2="alpha-adjust"/>
         </filter>
-    </svg>
+      </svg>
     </div>
-    <div class="HeaderMenu"></div>
+
+    <div class="HeaderMenuGradient"></div>
+
+    <div class="HeaderMenu">
+      <% /* TODO: Make this menu work */ %>
+      <div class="Menu">
+        <a href="/" class="MenuItem Active">Web</a>
+        <span class="MenuPadding"></span>
+        <a href="/" class="MenuItem">Images</a>
+        <span class="MenuPadding"></span>
+      </div>
+
+      <div class="Menu">
+        <% /* TODO: Preferences */ %>
+        <a href="/" class="MenuItem">Preferences</a>
+      </div>
+    </div>
     <div class="HeaderMain">
       <div class="HeaderMainLeft">
-        <div class="HeaderLogo">
+        <a class="HeaderLogo" href="/">
           <%~ include('/includes/svg/Logo.eta') %>
-        </div>
+        </a>
 
         <div class="HeaderSearchBox">
           <%~ include('/includes/elements/SearchBox.eta', { data: { query: it.data?.query || '' } }) %>

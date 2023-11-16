@@ -34,6 +34,20 @@ button {
   cursor: pointer;
 }
 
+.Menu {
+  display: flex;
+  align-items: center;
+}
+
+.MenuItem.Active {
+  font-weight: bold;
+}
+
+.MenuPadding {
+  padding: 0 10px;
+  font-size: 12px;
+}
+
 .SearchBox {
   height: 32px;
   width: 400px;
@@ -46,7 +60,7 @@ button {
 .SearchBoxInput input {
   height: 100%;
   width: 100%;
-  padding: 0 10px;
+  padding: 0 8px;
   font-size: 14px;
 }
 
