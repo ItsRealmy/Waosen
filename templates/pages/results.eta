@@ -16,11 +16,11 @@
       <div class="HeaderImage" style="background-image: url(/static/images/city.jpg);"></div> <% /* TODO: Change image on every request */ %>
       <svg height="0" xmlns="http://www.w3.org/2000/svg">
         <filter id="feather">
-            <feGaussianBlur stdDeviation="40"  result="blur"/>
-            <feComponentTransfer result="alpha-adjust">
-                <feFuncA type="gamma" amplitude="1.1" exponent="8" offset="-0.1"/>
-            </feComponentTransfer>
-            <feComposite operator="in" in="SourceGraphic" in2="alpha-adjust"/>
+          <feGaussianBlur stdDeviation="40"  result="blur"/>
+          <feComponentTransfer result="alpha-adjust">
+              <feFuncA type="gamma" amplitude="1.1" exponent="8" offset="-0.1"/>
+          </feComponentTransfer>
+          <feComposite operator="in" in="SourceGraphic" in2="alpha-adjust"/>
         </filter>
       </svg>
     </div>
@@ -53,6 +53,33 @@
       </div>
     </div>
   </header>
+
+  <main>
+    <div class="SidebarColumn"></div>
+    <div class="ResultsColumn">
+      <div class="ResultsColumnInfo">
+        <p>ALL RESULTS</p>
+
+        <p class="ResultsColumnInfoRight">
+          <span><%= ((it.data.pagination) * 9 + 1) %>-<%= ((it.data.pagination) * 9) + 9 %> results</span>
+          <span class="ResultsColumnInfoRightPadding">•</span>
+          <% /* TODO: Create advanced settings...maybe */ %>
+          <span><a href="">Advanced</a></span>
+        </p>
+      </div>
+
+      <div class="Results">
+        <% for (const result of it.data.response.results) { %>
+          <div class="Result">
+            <h3 class="ResultTitle"><a href="url"><%~ result.title %></a></h3>
+            <p class="ResultDescription"><%~ result.description %></p>
+            <% const url = new URL(result.url); %>
+            <p class="ResultURL"><%~ `${url.hostname}${url.pathname}` %></p>
+          </div>
+        <% } %>
+      </div>
+    </div>
+  </main>
 </body>
 
 </html>
