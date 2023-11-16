@@ -3,7 +3,7 @@
   <p><i>Wow, An Old-fashioned Search Engine, Nice!</i></p>
 </center>
 
-A recreation of Bing from 2009, made for [Nostalgia '09](https://discord.gg/hb4fzztexZ).
+A recreation of Bing from 2009, made for [Nostalgia '09](https://discord.gg/nP9SxVQGnu).
 
 ## Setup
 - Copy `example.env` to `.env`, and fill in the details
