@@ -10,6 +10,7 @@ router.get('/', async (req, res) => {
     response = await getTextResults(req.query.q, req.query.p);
   } catch (err) {
     // TODO: Handle errors
+    if (process.env.NODE_ENV === 'development') console.log(err);
     return res.send('');
   }
   
