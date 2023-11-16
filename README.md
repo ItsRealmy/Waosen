@@ -1,7 +1,7 @@
-<center>
+<div style="text-align: center">
   <h1>Waosen</h1>
   <p><i>Wow, An Old-fashioned Search Engine, Nice!</i></p>
-</center>
+</div>
 
 A recreation of Bing from 2009, made for [Nostalgia '09](https://discord.gg/nP9SxVQGnu).
 
