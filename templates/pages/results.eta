@@ -71,7 +71,7 @@
       <div class="Results">
         <% for (const result of it.data.response.results) { %>
           <div class="Result">
-            <h3 class="ResultTitle"><a href="url"><%~ result.title %></a></h3>
+            <h3 class="ResultTitle"><a href="<%= result.url %>"><%~ result.title %></a></h3>
             <p class="ResultDescription"><%~ result.description %></p>
             <% const url = new URL(result.url); %>
             <p class="ResultURL"><%~ `${url.hostname}${url.pathname}` %></p>
