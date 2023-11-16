@@ -157,3 +157,8 @@ main {
 .PaginationSearchBox {
   margin-left: -8px;
 }
+
+.GradientFooter {
+  height: 40px;
+  background-image: linear-gradient(0deg, #879398 0%, rgba(135, 147, 152, 0) 100%);
+}
