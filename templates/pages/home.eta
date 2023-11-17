@@ -16,14 +16,10 @@
       <div class="MenuBar">
         <% /* TODO: Make this menu work */ %>
         <div class="Menu">
-          <a class="MenuItem" href="/">Home</a>
-          <span class="MenuPadding">|</span>
-          <a class="MenuItem" href="/">About</a>
+          <a class="MenuItem" href="/">Nosalgia '09</a>
         </div>
 
         <div class="Menu">
-          <a class="MenuItem" href="/">Nosalgia '09</a>
-          <span class="MenuPadding">|</span>
           <% /* TODO: Preferences */ %>
           <a class="MenuItem" href="/">Preferences</a>
         </div>
@@ -50,6 +46,9 @@
             <p>© <%= new Date().getFullYear() %> Realmy</p>
             <span class="MenuPadding">|</span>
             <a class="MenuItem" href="https://github.com/ItsRealmy/Waosen">Source Code</a>
+            <span class="MenuPadding">|</span>
+            <% /* TODO: About */ %>
+            <a class="MenuItem" href="/">About</a>
           </div>
         </div>
       </div>
